@@ -2,6 +2,14 @@
 name = "termpad"
 version = "0.1.0"
 edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "A small terminal game to serve as a demo of crossterm"
+homepage = "https://github.com/JayAndJef/termpad"
+documentation = "https://github.com/JayAndJef/termpad"
+repository = "https://github.com/JayAndJef/termpad"
+readme = "README.md"
+keywords = ["command line", "crossterm", "game"]
+categories = ["games"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
